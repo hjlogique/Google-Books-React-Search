@@ -1,0 +1,28 @@
+.form-control {
+  color: #fff;
+  border: none;
+  background-color: rgb(48, 47, 47);
+  padding-left: 10px;
+}
+
+.form-control:focus {
+  color: #fff;
+  background-color: rgb(48, 47, 47);
+  padding-left: 10px;
+}
+
+.form-control::placeholder {
+  color: rgb(104, 104, 104);
+}
+
+input, textarea{
+  background-color:#666;
+  color: #FFF;
+}
+
+.pull-right .btn {
+ border: solid 1px rgb(255, 163, 5);
+}
+
+
+

@@ -1,0 +1,6 @@
+.jumbotron {
+  padding: 100px;
+  background-image: url(./images/google_books.jpg);
+  background-size: cover;
+  color: white;
+}

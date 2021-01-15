@@ -1,0 +1,11 @@
+.list-group-item {
+  background-color: rgb(34, 34, 34);
+  border: rgb(69, 68, 68) solid 1px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.list-group-item p {
+  font-size: 17px;
+  color:rgb(201, 201, 201);
+}

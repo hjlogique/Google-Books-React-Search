@@ -1,0 +1,11 @@
+.card {
+  background-color: rgb(12, 12, 12);
+}
+
+.card-header {
+  color: rgb(182, 182, 182);
+}
+
+.card-body {
+  color: rgb(199, 199, 199);
+}

@@ -1,0 +1,21 @@
+
+.transBox {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+
+.transBox .text-center {
+    color: rgb(255, 184, 60);
+}
+
+#save {
+    border: solid 1px rgb(5, 255, 159);
+    font-weight: bold;
+}
+
+#delete {
+    border: solid 1px rgb(255, 30, 5);
+    font-weight: bold;
+}
