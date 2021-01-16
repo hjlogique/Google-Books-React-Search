@@ -1,6 +1,7 @@
 {
-  "name": "react-google-books",
-  "version": "0.1.0",
+  "name": "Google-Books-React-Search",
+  "version": "1.0.0",
+  "description": "It queries, displays and save books based on user searches.",
   "private": true,
   "proxy": "http://localhost:3001/",
   "dependencies": {

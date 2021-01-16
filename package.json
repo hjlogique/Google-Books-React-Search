@@ -1,7 +1,7 @@
 {
-  "name": "react-google-books",
+  "name": "Google-Books-React-Search",
   "version": "1.0.0",
-  "description": "",
+  "description": "It queries, displays and save books based on user searches.",
   "main": "server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
