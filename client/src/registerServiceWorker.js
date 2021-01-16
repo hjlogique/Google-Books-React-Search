@@ -1,5 +1,5 @@
 
-// ====  src/utils/registerServiceWorker.js  ====
+// ====  src/registerServiceWorker.js  ====
 
 const isLocalhost = Boolean(
   window.location.hostname === "localhost" ||
