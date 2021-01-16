@@ -1,3 +1,6 @@
+
+// ====  src/pages/Saved.js  ====
+
 import React, { Component } from "react";
 import Jumbotron from "../components/Jumbotron";
 import Card from "../components/Card";
@@ -39,7 +42,7 @@ class Saved extends Component {
             <Jumbotron>
               <div className="transBox">
                 <h1 className="text-center">
-                <i className="fab fa-react" /><strong> React Google Books Search</strong>
+                  <i className="fab fa-react" /><strong> React Google Books Search</strong>
                 </h1>
                 <h2 className="text-center">Search for and Save Books of Interest.</h2>
               </div>

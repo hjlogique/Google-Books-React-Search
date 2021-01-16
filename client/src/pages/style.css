@@ -1,9 +1,97 @@
 
+/* ====  src/pages/style.css  ==== */
+
 .transBox {
     background-color: rgba(0, 0, 0, 0.5);
     padding-top: 10px;
-    padding-bottom: 5px;
+    padding-bottom: 7px;
     border-radius: 5px;
+}
+
+@media (min-width:1200px) and (max-width:5000px) {
+    .transBox {
+        width: 58%;
+        margin-left: 21%;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+    .transBox {
+        width: 70%;
+        margin-left: 15%;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .transBox {
+        width: 100%;
+    }
+}
+
+@media (min-width:507px) and (max-width:767px) {
+    .transBox {
+        width: 130%;
+        margin-left: -15%;
+    }
+
+    .transBox .text-center {
+        font-size: 19px;
+    }
+}
+
+@media (min-width:441px) and (max-width:506px) {
+    .transBox {
+        width: 170%;
+        margin-left: -35%;
+    }
+
+    .transBox .text-center {
+        font-size: 21px;
+    }
+}
+
+@media (min-width:341px) and (max-width:440px) {
+    .transBox {
+        width: 200%;
+        margin-left: -50%;
+    }
+
+    .transBox .text-center {
+        font-size: 21px;
+    }
+}
+
+@media (min-width:321px) and (max-width:340px) {
+    .transBox {
+        width: 280%;
+        margin-left: -90%;
+    }
+
+    .transBox .text-center {
+        font-size: 19px;
+    }
+}
+
+@media (min-width:300px) and (max-width:320px) {
+    .transBox {
+        width: 320%;
+        margin-left: -110%;
+    }
+
+    .transBox .text-center {
+        font-size: 19px;
+    }
+}
+
+@media screen and (max-width:299px) {
+    .transBox {
+        width: 400%;
+        margin-left: -150%;
+    }
+
+    .transBox .text-center {
+        font-size: 17px;
+    }
 }
 
 .transBox .text-center {

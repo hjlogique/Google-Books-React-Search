@@ -1,3 +1,6 @@
+
+// ====  Components/Jamborton/index.js  ====
+
 import React from "react";
 import "./style.css";
 

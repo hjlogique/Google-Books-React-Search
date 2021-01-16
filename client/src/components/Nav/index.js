@@ -1,3 +1,6 @@
+
+// ====  Components/Nav/index.js  ====
+
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
@@ -36,7 +39,7 @@ class Nav extends Component {
     return (
       <nav className="navbar navbar-expand-lg navbar-dark mb-2">
         <Link className="navbar-brand" to="/">
-          <img src={logo} className="bookLogo" alt="Book Logo"/>
+          <img src={logo} className="bookLogo" alt="Book Logo" />
           Google Books
         </Link>
         <button

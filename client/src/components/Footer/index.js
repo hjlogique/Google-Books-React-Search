@@ -1,3 +1,6 @@
+
+// ====  Components/Footer/index.js  ====
+
 import React from "react";
 import "./style.css";
 

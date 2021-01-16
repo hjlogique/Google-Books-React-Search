@@ -1,3 +1,6 @@
+
+/* ====  Components/Form/style.css  ==== */
+
 .form-control {
   color: #fff;
   border: none;
@@ -15,7 +18,7 @@
   color: rgb(104, 104, 104);
 }
 
-input, textarea{
+input, textarea {
   background-color:#666;
   color: #FFF;
 }
