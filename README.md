@@ -28,7 +28,7 @@
    This app is deployed to `Heroku` and the book information are stored in a `Mongo` database.
    [Click here to go to the app on Heroku.](https://desolate-sierra-68513.herokuapp.com) Depending on the network speed, it might take a couple of seconds for the app to load.
    
-   The following images display the `Search` and `Save` pages:
+   The following images display the `Search` and the `Save` pages:
    
   ![image 1](/screenshots/img1.png)
 
