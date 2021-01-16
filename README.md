@@ -25,7 +25,8 @@
 
    Once users save a book on the `Search` page, the saved book is removed from the list of searched books and added to the list of saved books in the `Save` page. This way, users are not allowed to resave the same book. The same way, once a book is deleted from the list of saved books, the deleted book will show up again in the list of searched books, if users choose to search for the same type of book.
 
-   This app is deployed to `Heroku` and the book information are stored in a `Mongo` database., [click here to go to the app on Heroku.](https://desolate-sierra-68513.herokuapp.com). Depending on the network speed, it might take a couple of seconds for the app to load.
+   This app is deployed to `Heroku` and the book information are stored in a `Mongo` database.
+   [Click here to go to the app on Heroku.](https://desolate-sierra-68513.herokuapp.com) Depending on the network speed, it might take a couple of seconds for the app to load.
    
    The following images display the `Search` and `Save` pages:
    
